@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/SnakeGame/Scenes/Snake.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
